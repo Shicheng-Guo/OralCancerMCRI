@@ -4,7 +4,6 @@
 - [Citation](#citation)
 - [Download](#download)
 - [Quick tutorial](#quick-tutorial)
- - [Single variant tests](#single-variant-tests)
- - [Groupwise tests](#groupwise-tests)
-
-# introduction
+ - [cell-free DNA fragmentation](#single-variant-tests)
+ - [cell-free DNA methylation](#groupwise-tests)
+ # Introduction
