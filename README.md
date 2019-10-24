@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
 - [Citation](#citation)
 - [Download](#download)
-- [Quick tutorial](#quick-tutorial)
+- [Research Strategy](#quick-tutorial)
  - [cell-free DNA fragmentation](#single-variant-tests)
  - [cell-free DNA methylation](#groupwise-tests)
  # Introduction
