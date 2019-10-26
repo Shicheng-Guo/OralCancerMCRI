@@ -17,5 +17,5 @@
 
 Project Update:
 
-* 2019/10/25, 2nd meeting with Steve, Ingrid and [Neel](https://www.marshfieldresearch.org/iosh/dr-neel-shimpi-has-accepted-the-associate-research-scientist-position-at-the-center-for-oral-and-systemic-health). We fixed the main research aim in this meeting and find UW-collaborator:[Dr. Randy Kimple](https://www.humonc.wisc.edu/team_member/randall-kimple/). Obviously, Dr. Kimple prefer to do oral cavity cancer in this project. 
+* 2019/10/25, 2nd meeting with Steve, Ingrid and [Neel](https://www.marshfieldresearch.org/iosh/dr-neel-shimpi-has-accepted-the-associate-research-scientist-position-at-the-center-for-oral-and-systemic-health). We fixed the main research aim in this meeting and find UW-collaborator:[Dr. Randy Kimple](https://www.humonc.wisc.edu/team_member/randall-kimple/). Obviously, Dr. Kimple prefer oral cavity cancer in this project. 
 * 2019/7/12, In MCRI scientist meeting, I gave a talk about "Genome-wide cell-free DNA fragmentation in patients with cancer" and Ingrid think we can do the similar work in oral cancer in MCRI. I also prepared a [cell-free DNA methylation review](https://shicheng-guo.github.io/flexdashboard/2019/08/19/cfDNA_fragmentation) in my blog. 
