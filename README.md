@@ -4,8 +4,9 @@
 - [Key Research Personnel](#introduction)
   - [Steven J Schrodi](https://scholar.google.com/citations?user=WM-TwVQAAAAJ&hl=en)
   - [Ingrid Glurich](https://www.marshfieldresearch.org/profiles/5891)
-  - [Shicheng Guo](https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en&oi=ao)
   - [Randy Kimple](https://www.humonc.wisc.edu/team_member/randall-kimple/)
+  - [Shicheng Guo](https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en&oi=ao)
+
 - [Citation](#citation)
 - [Research Strategy](#quick-tutorial)
   - [cell-free DNA fragmentation](#single-variant-tests)
