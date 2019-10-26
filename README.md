@@ -18,4 +18,4 @@ In the MCRI scientist meeting on 10/02/2019, I gave a talk about "".
 Project Update:
 
 * 2019/10/25, 2nd meeting with Steve, Ingrid and Neel. We fixed the main research aim in this meeting and find UW-collaborator:[Dr. Randy Kimple](https://www.humonc.wisc.edu/team_member/randall-kimple/). Obviously, Dr. Kimple prefer to do oral cavity cancer in this project. 
-* 2019/7/12, In MCRI scientist meeting, I gave a talk about "" and Ingrid think we can do the similar work in oral cancer. 
+* 2019/7/12, In MCRI scientist meeting, I gave a talk about "Genome-wide cell-free DNA fragmentation in patients with cancer" and Ingrid think we can do the similar work in oral cancer in MCRI. 
